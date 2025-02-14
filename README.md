@@ -34,7 +34,7 @@
   <a href="https://twitter.com/ZephyrKensei" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://zephyr-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
