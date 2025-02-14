@@ -40,7 +40,5 @@
 
 <br clear="both">
 
-![Snake animation]
-(https://github.com/zephyrkensei/zephyrkensei/blob/output/github-contribution-grid-snake.svg)
 
 ###
